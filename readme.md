@@ -2,7 +2,7 @@
 
 > Keeping track of my various open source projects.
 
-Note: most of these projects I created, but some I just contribute to, and those are marked with *contributor*.
+Most of these are projects that I created, but some I just contribute to, and those are marked with *contributor*.
 
 ## Contents
 
@@ -23,6 +23,10 @@ Note: most of these projects I created, but some I just contribute to, and those
 - [abstract-object-storage](https://github.com/transitive-bullshit/abstract-object-storage) - Collection of useful utilities for working with Google Cloud Storage.
 - [p-cache](https://github.com/transitive-bullshit/p-cache) - Decorator to memoize the results of async functions via lru-cache.
 - [random](https://github.com/transitive-bullshit/random) - Seedable random number generator supporting many common distributions.
+- [id-shortener](https://github.com/transitive-bullshit/id-shortener) - Efficient id / url shortener for NodeJS backed by pluggable storage defaulting to redis.
+- [async-await-parallel](https://github.com/transitive-bullshit/async-await-parallel) - Node.js module with simple concurrency control for awaiting an array of async results.
+- [snapchat](https://github.com/transitive-bullshit/snapchat) - Node.js client for the unofficial Snapchat API
+- [ip-set](https://github.com/transitive-bullshit/ip-set) - Efficient mutable set data structure optimized for use with IPv4 and IPv6 addresses. The primary use case is for working with potentially large IP blacklists.
 - [rect-cover](https://github.com/transitive-bullshit/rect-cover) - Computes a transform between two rects just like `background-size: cover`. ([demo](https://transitive-bullshit.github.io/rect-cover/))
 - [rect-contain](https://github.com/transitive-bullshit/rect-contain) - Computes a transform between two rects just like `background-size: contain`. ([demo](https://transitive-bullshit.github.io/rect-contain/))
 - [github-is-starred](https://github.com/transitive-bullshit/github-is-starred) - Checks if a user has starred a particular GitHub repo.
@@ -99,10 +103,18 @@ Note: most of these projects I created, but some I just contribute to, and those
 - [koa-micro](https://github.com/transitive-bullshit/koa-micro) - [Koa 2](http://koajs.com/) microservices with batteries included.
 - [koa-api-boilerplate](https://github.com/transitive-bullshit/koa-api-boilerplate) - [Koa 2](http://koajs.com/) API boilerplate with batteries-included.
 
+## Misc
+
+[Milton](https://github.com/transitive-bullshit/Milton) - C++ Rendering Framework w/ MLT, bidi path tracing, etc. and OpenGL Previews (undergrad thesis project from Brown '09).
+[Mipscope](https://github.com/transitive-bullshit/mipscope) - Cross-platform IDE for students learning assembly on the MIPS architecture. The focus is on a convenient debugging environment, including a visual, reversible debugger.
+[Gravity-spritekit](https://github.com/transitive-bullshit/Gravity-spritekit) - iOS n-body simulation visualized with metaballs. Physics and graphics provided by SpriteKit.
+[Gravity-cocos2d](https://github.com/transitive-bullshit/Gravity-cocos2d) - iOS n-body simulation combined visualized with metaballs. Physics and graphics provided by cocos2d.
+
 
 ## Tutorials
 
 - [npm-es-modules](https://github.com/transitive-bullshit/npm-es-modules) - Breakdown of 7 different ways to use ES modules with npm today.
+
 
 ## License
 
