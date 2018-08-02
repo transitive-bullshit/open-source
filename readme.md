@@ -17,7 +17,6 @@ Note: most of these projects I created, but some I just contribute to, and those
 
 ## Node.js
 
-- [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web. ⚡️ ([demo](https://webtorrent.io)) (*contributor*)
 - [node-compat-require](https://github.com/transitive-bullshit/node-compat-require) - Easily allow your Node program to run in a target node version range to maximize compatibility.
 - [update-markdown-jsdoc](https://github.com/transitive-bullshit/update-markdown-jsdoc) - Updates a markdown document section with jsdoc documentation.
 - [update-markdown-usage](https://github.com/transitive-bullshit/update-markdown-usage) - Updates a markdown document section with CLI usage info via `--help`.
@@ -28,6 +27,7 @@ Note: most of these projects I created, but some I just contribute to, and those
 - [rect-contain](https://github.com/transitive-bullshit/rect-contain) - Computes a transform between two rects just like `background-size: contain`. ([demo](https://transitive-bullshit.github.io/rect-contain/))
 - [github-is-starred](https://github.com/transitive-bullshit/github-is-starred) - Checks if a user has starred a particular GitHub repo.
 - [github-is-starred-cli](https://github.com/transitive-bullshit/github-is-starred-cli) - CLI to check if a user has starred a particular GitHub repo.
+- [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web. ⚡️ ([demo](https://webtorrent.io)) (*contributor*)
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans. (*contributor*)
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for [Awesome](https://awesome.re/) lists. (*contributor*)
 
