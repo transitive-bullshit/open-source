@@ -2,6 +2,8 @@
 
 > Keeping track of my various open source projects.
 
+Note: most of these are projects that I created, but some I just contributee to, and those are marked with *contributor*.
+
 ## Contents
 
 - [Node.js](#nodejs)
@@ -15,7 +17,7 @@
 
 ## Node.js
 
-- [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web ⚡️ ([demo](https://webtorrent.io)) (contributor)
+- [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web. ⚡️ ([demo](https://webtorrent.io)) (*contributor*)
 - [node-compat-require](https://github.com/transitive-bullshit/node-compat-require) - Easily allow your Node program to run in a target node version range to maximize compatibility.
 - [update-markdown-jsdoc](https://github.com/transitive-bullshit/update-markdown-jsdoc) - Updates a markdown document section with jsdoc documentation.
 - [update-markdown-usage](https://github.com/transitive-bullshit/update-markdown-usage) - Updates a markdown document section with CLI usage info via `--help`.
@@ -26,8 +28,8 @@
 - [rect-contain](https://github.com/transitive-bullshit/rect-contain) - Computes a transform between two rects just like `background-size: contain`. ([demo](https://transitive-bullshit.github.io/rect-contain/))
 - [github-is-starred](https://github.com/transitive-bullshit/github-is-starred) - Checks if a user has starred a particular GitHub repo.
 - [github-is-starred-cli](https://github.com/transitive-bullshit/github-is-starred-cli) - CLI to check if a user has starred a particular GitHub repo.
-- [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans. (contributor)
-- [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for [Awesome](https://awesome.re/) lists. (contributor)
+- [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans. (*contributor*)
+- [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for [Awesome](https://awesome.re/) lists. (*contributor*)
 
 
 ## React
@@ -101,3 +103,7 @@
 ## Tutorials
 
 - [npm-es-modules](https://github.com/transitive-bullshit/npm-es-modules) - Breakdown of 7 different ways to use ES modules with npm today.
+
+## License
+
+MIT © [Travis Fischer](https://github.com/transitive-bullshit)
