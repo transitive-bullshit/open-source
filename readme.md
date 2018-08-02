@@ -34,7 +34,7 @@ Note: most of these projects I created, but some I just contribute to, and those
 
 ## React
 
-- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily publishing modern React libraries with Rollup and example usage via create-react-app.
+- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily publishing modern react libraries. ⚡
 - [react-modern-library-boilerplate](https://github.com/transitive-bullshit/react-modern-library-boilerplate) - Boilerplate and CLI [create-react-library](https://github.com/transitive-bullshit/create-react-library) for publishing modern React modules with Rollup and example usage via create-react-app.
 - [react-background-slideshow](https://github.com/transitive-bullshit/react-background-slideshow) - Sexy tiled background slideshow for React 🔥 ([demo](https://transitive-bullshit.github.io/react-background-slideshow/))
 - [react-starfield-animation](https://github.com/transitive-bullshit/react-starfield-animation) -Canvas-based starfield animation for React ✨ ([demo](https://transitive-bullshit.github.io/react-starfield-animation/))
