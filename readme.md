@@ -107,10 +107,10 @@ Most of these are projects that I created, but some I just contribute to, and th
 
 ## Misc
 
-- [Milton](https://github.com/transitive-bullshit/Milton) - C++ Rendering Framework w/ MLT, bidi path tracing, etc. and OpenGL Previews (undergrad thesis project from Brown '09).
-- [Mipscope](https://github.com/transitive-bullshit/mipscope) - Cross-platform IDE for students learning assembly on the MIPS architecture. The focus is on a convenient debugging environment, including a visual, reversible debugger.
-- [Gravity-spritekit](https://github.com/transitive-bullshit/Gravity-spritekit) - iOS n-body simulation visualized with metaballs. Physics and graphics provided by SpriteKit.
-- [Gravity-cocos2d](https://github.com/transitive-bullshit/Gravity-cocos2d) - iOS n-body simulation combined visualized with metaballs. Physics and graphics provided by cocos2d.
+- [Milton](https://github.com/transitive-bullshit/Milton) - C++ Rendering Framework w/ MLT, bidi path tracing, etc. and OpenGL Previews (undergrad thesis project from Brown '09).
+- [Mipscope](https://github.com/transitive-bullshit/mipscope) - Cross-platform IDE for students learning assembly on the MIPS architecture. The focus is on a convenient debugging environment, including a visual, reversible debugger.
+- [Gravity-spritekit](https://github.com/transitive-bullshit/Gravity-spritekit) - iOS n-body simulation visualized with metaballs. Physics and graphics provided by SpriteKit.
+- [Gravity-cocos2d](https://github.com/transitive-bullshit/Gravity-cocos2d) - iOS n-body simulation combined visualized with metaballs. Physics and graphics provided by cocos2d.
 
 
 ## Tutorials
