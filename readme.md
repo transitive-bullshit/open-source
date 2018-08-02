@@ -1,6 +1,6 @@
 # Transitive Bullshit
 
-> A place to keep track of my various open source projects.
+> Keeping track of my various open source projects.
 
 ## Contents
 
