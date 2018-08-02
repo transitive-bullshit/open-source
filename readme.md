@@ -24,7 +24,7 @@ Most of these are projects that I created, but some I just contribute to, and th
 - [abstract-object-storage](https://github.com/transitive-bullshit/abstract-object-storage) - Collection of useful utilities for working with Google Cloud Storage.
 - [p-cache](https://github.com/transitive-bullshit/p-cache) - Decorator to memoize the results of async functions via lru-cache.
 - [random](https://github.com/transitive-bullshit/random) - Seedable random number generator supporting many common distributions.
-- [id-shortener](https://github.com/transitive-bullshit/id-shortener) - Efficient id / url shortener for NodeJS backed by pluggable storage defaulting to redis.
+- [id-shortener](https://github.com/transitive-bullshit/id-shortener) - Efficient id / url shortener for Node.js backed by pluggable storage defaulting to redis.
 - [node-compat-require](https://github.com/transitive-bullshit/node-compat-require) - Easily allow your Node program to run in a target node version range to maximize compatibility.
 - [async-await-parallel](https://github.com/transitive-bullshit/async-await-parallel) - Node.js module with simple concurrency control for awaiting an array of async results.
 - [snapchat](https://github.com/transitive-bullshit/snapchat) - Node.js client for the unofficial Snapchat API
