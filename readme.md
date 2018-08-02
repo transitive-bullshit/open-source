@@ -2,7 +2,7 @@
 
 > Keeping track of my various open source projects.
 
-Note: most of these projects I created, but some I just contributee to, and those are marked with *contributor*.
+Note: most of these projects I created, but some I just contribute to, and those are marked with *contributor*.
 
 ## Contents
 
