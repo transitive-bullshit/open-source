@@ -13,17 +13,19 @@ Most of these are projects that I created, but some I just contribute to, and th
 - [Crawling](#crawling)
 - [Graphics](#graphics)
 - [Koa](#koa)
+- [Misc](#misc)
+- [Tutorials](#tutorials)
 
 
 ## Node.js
 
-- [node-compat-require](https://github.com/transitive-bullshit/node-compat-require) - Easily allow your Node program to run in a target node version range to maximize compatibility.
-- [update-markdown-jsdoc](https://github.com/transitive-bullshit/update-markdown-jsdoc) - Updates a markdown document section with jsdoc documentation.
-- [update-markdown-usage](https://github.com/transitive-bullshit/update-markdown-usage) - Updates a markdown document section with CLI usage info via `--help`.
+- [update-markdown-jsdoc](https://github.com/transitive-bullshit/update-markdown-jsdoc) - Updates a markdown document section with jsdoc documentation. Useful to automatically update a library's readme with API docs.
+- [update-markdown-usage](https://github.com/transitive-bullshit/update-markdown-usage) - Updates a markdown document section with CLI usage info via `--help`. Useful to automatically update a CLI's readme with Usage docs.
 - [abstract-object-storage](https://github.com/transitive-bullshit/abstract-object-storage) - Collection of useful utilities for working with Google Cloud Storage.
 - [p-cache](https://github.com/transitive-bullshit/p-cache) - Decorator to memoize the results of async functions via lru-cache.
 - [random](https://github.com/transitive-bullshit/random) - Seedable random number generator supporting many common distributions.
 - [id-shortener](https://github.com/transitive-bullshit/id-shortener) - Efficient id / url shortener for NodeJS backed by pluggable storage defaulting to redis.
+- [node-compat-require](https://github.com/transitive-bullshit/node-compat-require) - Easily allow your Node program to run in a target node version range to maximize compatibility.
 - [async-await-parallel](https://github.com/transitive-bullshit/async-await-parallel) - Node.js module with simple concurrency control for awaiting an array of async results.
 - [snapchat](https://github.com/transitive-bullshit/snapchat) - Node.js client for the unofficial Snapchat API
 - [ip-set](https://github.com/transitive-bullshit/ip-set) - Efficient mutable set data structure optimized for use with IPv4 and IPv6 addresses. The primary use case is for working with potentially large IP blacklists.
