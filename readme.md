@@ -1,4 +1,4 @@
-# Transitive Bullshit Open Source [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Transitive Bullshit
 
 > A place to keep track of my various open source projects.
 
