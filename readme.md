@@ -59,9 +59,9 @@ Most of these are projects that I created, but some I just contribute to, and th
 - [react-block-image](https://github.com/transitive-bullshit/react-block-image) - React replacement for img with more control + fallback support. 🌃 ([demo](https://transitive-bullshit.github.io/react-block-image/))
 - [react-mp3-recorder](https://github.com/transitive-bullshit/react-mp3-recorder) - Microphone recorder for React that captures mp3 audio 🎵 ([demo](https://transitive-bullshit.github.io/react-mp3-recorder/))
 - [react-before-after-slider](https://github.com/transitive-bullshit/react-before-after-slider) - A sexy image comparison slider for React. ([demo](https://transitive-bullshit.github.io/react-before-after-slider/))
-- [react-fluid-gallery](https://github.com/transitive-bullshit/react-fluid-gallery) - Fluid media gallery for React powered by WebGL. 💧 ([demo](https://transitive-bullshit.github.io/react-fluid-gallery)
-- [react-fluid-animation](https://github.com/transitive-bullshit/react-fluid-animation) - Fluid media animation for React powered by WebGL. 💦 ([demo](https://transitive-bullshit.github.io/react-fluid-animation/)
-- [react-suspense-polyfill](https://github.com/transitive-bullshit/react-suspense-polyfill) - Polyfill for the React Suspense API 😮 ([demo](https://transitive-bullshit.github.io/react-suspense-polyfill/)
+- [react-fluid-gallery](https://github.com/transitive-bullshit/react-fluid-gallery) - Fluid media gallery for React powered by WebGL. 💧 ([demo](https://transitive-bullshit.github.io/react-fluid-gallery))
+- [react-fluid-animation](https://github.com/transitive-bullshit/react-fluid-animation) - Fluid media animation for React powered by WebGL. 💦 ([demo](https://transitive-bullshit.github.io/react-fluid-animation/))
+- [react-suspense-polyfill](https://github.com/transitive-bullshit/react-suspense-polyfill) - Polyfill for the React Suspense API 😮 ([demo](https://transitive-bullshit.github.io/react-suspense-polyfill/))
 
 
 ## Puppeteer
