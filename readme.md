@@ -6,6 +6,7 @@ Most of these are projects that I created, but some I just contribute to, and th
 
 ## Contents
 
+- [TypeScript](#typescript)
 - [Node.js](#nodejs)
 - [React](#react)
 - [Puppeteer](#puppeteer)
@@ -15,6 +16,11 @@ Most of these are projects that I created, but some I just contribute to, and th
 - [Koa](#koa)
 - [Misc](#misc)
 - [Tutorials](#tutorials)
+
+
+## TypeScript
+
+- [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions. ⭐️
 
 
 ## Node.js
