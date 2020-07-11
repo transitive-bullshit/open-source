@@ -6,6 +6,7 @@ Most of these are projects that I created, but some I just contribute to, and th
 
 ## Contents
 
+- [TypeScript](#typescript)
 - [Node.js](#nodejs)
 - [React](#react)
 - [Puppeteer](#puppeteer)
@@ -15,6 +16,11 @@ Most of these are projects that I created, but some I just contribute to, and th
 - [Koa](#koa)
 - [Misc](#misc)
 - [Tutorials](#tutorials)
+
+
+## TypeScript
+
+- [functional-typescript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions. ⭐️
 
 
 ## Node.js
@@ -33,9 +39,13 @@ Most of these are projects that I created, but some I just contribute to, and th
 - [rect-contain](https://github.com/transitive-bullshit/rect-contain) - Computes a transform between two rects just like `background-size: contain`. ([demo](https://transitive-bullshit.github.io/rect-contain/))
 - [github-is-starred](https://github.com/transitive-bullshit/github-is-starred) - Checks if a user has starred a particular GitHub repo.
 - [github-is-starred-cli](https://github.com/transitive-bullshit/github-is-starred-cli) - CLI to check if a user has starred a particular GitHub repo.
+- [compare-images-exact](https://github.com/transitive-bullshit/compare-images-exact) - CLI for comparing two directories of images recursively.
+- [check-links](https://github.com/transitive-bullshit/check-links) - Robustly checks an array of URLs for liveness. Extremely fast ⚡
+- [commit-emoji](https://github.com/transitive-bullshit/commit-emoji) - Performs a git commit with a random emoji message. 😂😂😂
 - [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for the web. ⚡️ ([demo](https://webtorrent.io)) (*contributor*)
 - [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans. (*contributor*)
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for [Awesome](https://awesome.re/) lists. (*contributor*)
+- [remark-lint-no-dead-urls](https://github.com/transitive-bullshit/remark-lint-no-dead-urls) - Ensure that external links in your Markdown are alive (*contributor*)
 
 
 ## React
@@ -49,6 +59,9 @@ Most of these are projects that I created, but some I just contribute to, and th
 - [react-block-image](https://github.com/transitive-bullshit/react-block-image) - React replacement for img with more control + fallback support. 🌃 ([demo](https://transitive-bullshit.github.io/react-block-image/))
 - [react-mp3-recorder](https://github.com/transitive-bullshit/react-mp3-recorder) - Microphone recorder for React that captures mp3 audio 🎵 ([demo](https://transitive-bullshit.github.io/react-mp3-recorder/))
 - [react-before-after-slider](https://github.com/transitive-bullshit/react-before-after-slider) - A sexy image comparison slider for React. ([demo](https://transitive-bullshit.github.io/react-before-after-slider/))
+- [react-fluid-gallery](https://github.com/transitive-bullshit/react-fluid-gallery) - Fluid media gallery for React powered by WebGL. 💧 ([demo](https://transitive-bullshit.github.io/react-fluid-gallery))
+- [react-fluid-animation](https://github.com/transitive-bullshit/react-fluid-animation) - Fluid media animation for React powered by WebGL. 💦 ([demo](https://transitive-bullshit.github.io/react-fluid-animation/))
+- [react-suspense-polyfill](https://github.com/transitive-bullshit/react-suspense-polyfill) - Polyfill for the React Suspense API 😮 ([demo](https://transitive-bullshit.github.io/react-suspense-polyfill/))
 
 
 ## Puppeteer
@@ -111,6 +124,7 @@ Most of these are projects that I created, but some I just contribute to, and th
 - [Mipscope](https://github.com/transitive-bullshit/mipscope) - Cross-platform IDE for students learning assembly on the MIPS architecture. The focus is on a convenient debugging environment, including a visual, reversible debugger.
 - [Gravity-spritekit](https://github.com/transitive-bullshit/Gravity-spritekit) - iOS n-body simulation visualized with metaballs. Physics and graphics provided by SpriteKit.
 - [Gravity-cocos2d](https://github.com/transitive-bullshit/Gravity-cocos2d) - iOS n-body simulation combined visualized with metaballs. Physics and graphics provided by cocos2d.
+- [transitivebullsh.it](https://github.com/transitive-bullshit/transitivebullsh.it) - My personal portfolio site. ([transitivebullsh.it](https://transitivebullsh.it))
 
 
 ## Tutorials
@@ -120,6 +134,6 @@ Most of these are projects that I created, but some I just contribute to, and th
 
 ## License
 
-MIT © [Travis Fischer](https://github.com/transitive-bullshit)
+MIT © [Travis Fischer](https://transitivebullsh.it/)
 
 Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
